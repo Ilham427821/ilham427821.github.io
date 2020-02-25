@@ -1,0 +1,24 @@
+{
+  "name": "ilham427821.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilham427821/ilham427821.github.io.git"
+  },
+  "author": "iros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilham427821/ilham427821.github.io/issues"
+  },
+  "homepage": "https://github.com/ilham427821/ilham427821.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "http-server": "^0.12.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
